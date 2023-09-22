@@ -51,7 +51,6 @@ Overview
 - 🇩🇪 German
 - 🇷🇺 Russian
 - 🇺🇦 Ukrainian
-<br />
 
 #
 <details>
