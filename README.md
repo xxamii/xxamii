@@ -27,8 +27,8 @@ Overview
 
 ### ⌚ I'm Currently
 
-- 🌱 learning C# .NET
-- 🔨 working on [MyGamesList](https://github.com/xxamii/MyGamesList)
+- Learning C# .NET
+- Working on [MyGamesList](https://github.com/xxamii/MyGamesList)
 
 #
 
