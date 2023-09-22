@@ -14,8 +14,8 @@ Overview
 
 ### ⌚ I'm Currently
 
-- 🌱 learning ...
-- 🔨 working on ...
+- 🌱 learning C# .NET
+- 🔨 working on [MyGamesList](https://github.com/xxamii/MyGamesList)
 
 #
 
@@ -28,8 +28,6 @@ Overview
 #
 
 ### 🌏 I Speak
-
-<br/>
 
 <p align="left">
   <img align="left" width="20px" style="padding-right:10px; margin:0" alt="english flag" title="english language" src="https://github.com/csmoore/country-flag-icons/blob/master/country-flags-4x3-svg/us.svg" />
