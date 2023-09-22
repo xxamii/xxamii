@@ -42,10 +42,10 @@ Overview
 
 ### 🌏 I Speak
 
-<span align="left" style="padding-right:50px;">English</span>
-<span align="left" style="padding-right:50px;">German</span>
-<span align="left" style="padding-right:50px;">Russian</span>
-<span align="left" style="padding-right:50px;">Ukrainian</span>
+English
+German
+Russian
+Ukrainian
 <br />
 
 #
