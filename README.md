@@ -34,9 +34,14 @@ Overview
 
 ### 🎓 Education
 
+- 2021-2022: Software Engineering, Kharkiw National University of Radio Electronics, 2 Semesters
+
 ---
 
 ### 🐚 How to Reach Me
+
+- Email: <maxim.yakovliev4@gmail.com>
+- Telegram: <https://t.me/mxykv>
 
 #
 
@@ -49,7 +54,6 @@ Overview
 <br />
 
 #
-
 <details>
   <summary><h3>🚠 My Journey</h3></summary>
 </details>
