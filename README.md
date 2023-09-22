@@ -42,9 +42,9 @@ Overview
 
 ### 🌏 I Speak
 
-English
-German
-Russian
+English  
+German  
+Russian  
 Ukrainian
 <br />
 
