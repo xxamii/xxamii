@@ -26,6 +26,10 @@ Overview
 
 #
 
+### 🎮 Itch.io
+
+#
+
 ### ⌚ I'm Currently
 
 - Learning C# .NET
@@ -43,6 +47,7 @@ Overview
 
 - Email: <maxim.yakovliev4@gmail.com>
 - Telegram: <https://t.me/mxykv>
+- Itch.io: <https://xamigames.itch.io>
 
 #
 
