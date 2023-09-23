@@ -1,6 +1,6 @@
 # 🌌 Maxim Yakovliev | XAMI
 
-I am a full stack and an indie game developer. My wide range of interests in software development allows me to quickly learn new things and adapt to meet a project's needs and requirements. I greatly value my code's cleanliness, coherence, and scalability. Therefore I build my projects from the ground up, from the design of their features  and architecture to development and testing.
+I am a full stack and an indie game developer. My wide range of interests in software development allows me to quickly learn new things and adapt to meet a project's needs and requirements. I greatly value my code's cleanliness, coherence, and scalability. Therefore I build my projects from the ground up, from the design of their features and architecture to development and testing. I share the projects in my [repositories](https://github.com/xxamii?tab=repositories) and on my [itch.io page](https://xamigames.itch.io).
 
 ---
 
@@ -24,6 +24,10 @@ I am a full stack and an indie game developer. My wide range of interests in sof
 
 ### 🔭 Favourite Projects
 
+<a href="https://github.com/xxamii/MyGamesList">
+  <img height=200 align="left" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=tokyonight" />
+</a>
+
 #
 
 ### 🎮 Itch.io
@@ -46,8 +50,8 @@ I am a full stack and an indie game developer. My wide range of interests in sof
 ### 🐚 How to Reach Me
 
 - Email: <maxim.yakovliev4@gmail.com>
-- Telegram: <https://t.me/mxykv>
 - Itch.io: <https://xamigames.itch.io>
+- Discord: <https://discord.com/users/292738855818231809>
 
 #
 
