@@ -26,7 +26,7 @@ I am a full stack and an indie game developer. My wide range of interests in sof
 
 <p align="left">
   <a href="https://github.com/xxamii/MyGamesList">
-    <img width="350px" align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=xxamii&repo=mygameslist&theme=tokyonight" />
+    <img width="350px" src="https://github-readme-stats.vercel.app/api/pin/?username=xxamii&repo=mygameslist&theme=tokyonight" />
   </a>
 </p>
 
