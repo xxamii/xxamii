@@ -22,11 +22,11 @@ I am a full stack and an indie game developer. My wide range of interests in sof
 
 #
 
-### 🔭 Favourite Projects
+### 📔 Favourite Projects
 
 <p align="left">
   <a href="https://github.com/xxamii/MyGamesList">
-    <img width="350px" src="https://github-readme-stats.vercel.app/api/pin/?username=xxamii&repo=mygameslist&theme=tokyonight" />
+    <img width="350px" src="https://github-readme-stats.vercel.app/api/pin/?username=xxamii&repo=mygameslist&theme=tokyonight&hide_border=true" />
   </a>
 </p>
 
@@ -38,7 +38,7 @@ I am a full stack and an indie game developer. My wide range of interests in sof
 
 #
 
-### ⌚ I'm Currently
+### 🔭 I'm Currently
 
 - Learning C# .NET
 - Working on [MyGamesList](https://github.com/xxamii/MyGamesList)
