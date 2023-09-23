@@ -30,6 +30,8 @@ I am a full stack and an indie game developer. My wide range of interests in sof
   </a>
 </p>
 
+<br />
+
 #
 
 ### 🎮 Itch.io
