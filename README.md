@@ -25,7 +25,7 @@ I am a full stack and an indie game developer. My wide range of interests in sof
 ### 🔭 Favourite Projects
 
 <a href="https://github.com/xxamii/MyGamesList">
-  <img height=200 align="left" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=tokyonight" />
+  <img height=200 align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=tokyonight" />
 </a>
 
 #
