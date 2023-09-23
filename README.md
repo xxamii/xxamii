@@ -1,6 +1,6 @@
 # 🌌 Maxim Yakovliev | XAMI
 
-Overview
+I am a full stack and an indie game developer. My wide range of interests in software development allows me to quickly learn new things and adapt to meet a project's needs and requirements. I greatly value my code's cleanliness, coherence, and scalability. Therefore I build my projects from the ground up, from the design of their features  and architecture to development and testing.
 
 ---
 
