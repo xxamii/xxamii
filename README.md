@@ -24,11 +24,15 @@ I am a full stack and an indie game developer. My wide range of interests in sof
 
 ### 📔 Favourite Projects
 
+<!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
+
 <p align="left">
   <a href="https://github.com/xxamii/MyGamesList">
     <img width="350px" src="https://github-readme-stats.vercel.app/api/pin/?username=xxamii&repo=mygameslist&theme=tokyonight&hide_border=true" />
   </a>
 </p>
+
+<!-- Badges with custom icons - https://github.com/DenverCoder1/custom-icon-badges -->
 
 <a href="https://github.com/xxamii?tab=repositories"><img alt="All repositories" title="All repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1A1B27?style=for-the-badge&logoColor=white&logo=repo"></a>
 
