@@ -30,9 +30,9 @@ I am a full stack and an indie game developer. My wide range of interests in sof
   </a>
 </p>
 
-<a href="https://github.com/xxamii?tab=repositories"><img alt="All repositories" title="All repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1A1B27?style=for-the-badge&logoColor=white&logo=repo"></a>
-
 <br />
+
+<a href="https://github.com/xxamii?tab=repositories"><img alt="All repositories" title="All repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1A1B27?style=for-the-badge&logoColor=white&logo=repo"></a>
 
 #
 
