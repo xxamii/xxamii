@@ -42,19 +42,19 @@ I am a full stack and an indie game developer. My wide range of interests in sof
 
 <p align="left">
   <a href="https://xamigames.itch.io/run-a-circle">
-    <img width="400px" style="border-radius: 4.5%;" src="https://github.com/xxamii/xxamii/blob/main/Images/RunACircle.png" />
+    <img width="400px" style="border-radius:4.5px" src="https://github.com/xxamii/xxamii/blob/main/Images/RunACircle.png" />
   </a>
   <a href="https://linahale.itch.io/comfyblobs">
-    <img width="400px" style="border-radius: 4.5%;" src="https://github.com/xxamii/xxamii/blob/main/Images/ComfyBlobs.png" />
+    <img width="400px" style="border-radius:4.5px" src="https://github.com/xxamii/xxamii/blob/main/Images/ComfyBlobs.png" />
   </a>
   <a href="https://xamigames.itch.io/fight-your-fears">
-    <img width="400px" style="border-radius: 4.5%;" src="https://github.com/xxamii/xxamii/blob/main/Images/FightYourFears.png" />
+    <img width="400px" style="border-radius:4.5px" src="https://github.com/xxamii/xxamii/blob/main/Images/FightYourFears.png" />
   </a>
   <a href="https://xamigames.itch.io/spooky-journey">
-    <img width="400px" style="border-radius: 4.5%;" src="https://github.com/xxamii/xxamii/blob/main/Images/SpookyJourney.png" />
+    <img width="400px" style="border-radius:4.5px" src="https://github.com/xxamii/xxamii/blob/main/Images/SpookyJourney.png" />
   </a>
   <a href="https://xamigames.itch.io/through-the-factory">
-    <img width="400px" style="border-radius: 4.5%;" src="https://github.com/xxamii/xxamii/blob/main/Images/ThroughTheFactory.png" />
+    <img width="400px" style="border-radius:4.5px" src="https://github.com/xxamii/xxamii/blob/main/Images/ThroughTheFactory.png" />
   </a>
 </p>
 
