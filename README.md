@@ -38,27 +38,27 @@ I am a full stack and an indie game developer. My wide range of interests in sof
 
 #
 
-### 🎮 Itch.io
-
-You can find and play my games on my <itch.io> page!
+### 🎮 My Games on Itch.io
 
 <p align="left">
   <a href="https://xamigames.itch.io/run-a-circle">
-    <img width="450px" src="https://github.com/xxamii/xxamii/blob/main/Images/RunACircle.png" />
+    <img width="400px" src="https://github.com/xxamii/xxamii/blob/main/Images/RunACircle.png" />
   </a>
   <a href="https://linahale.itch.io/comfyblobs">
-    <img width="450px" src="https://github.com/xxamii/xxamii/blob/main/Images/ComfyBlobs.png" />
+    <img width="400px" src="https://github.com/xxamii/xxamii/blob/main/Images/ComfyBlobs.png" />
   </a>
   <a href="https://xamigames.itch.io/fight-your-fears">
-    <img width="450px" src="https://github.com/xxamii/xxamii/blob/main/Images/FightYourFears.png" />
+    <img width="400px" src="https://github.com/xxamii/xxamii/blob/main/Images/FightYourFears.png" />
   </a>
   <a href="https://xamigames.itch.io/spooky-journey">
-    <img width="450px" src="https://github.com/xxamii/xxamii/blob/main/Images/SpookyJourney.png" />
+    <img width="400px" src="https://github.com/xxamii/xxamii/blob/main/Images/SpookyJourney.png" />
   </a>
   <a href="https://xamigames.itch.io/through-the-factory">
-    <img width="450px" src="https://github.com/xxamii/xxamii/blob/main/Images/ThroughTheFactory.png" />
+    <img width="400px" src="https://github.com/xxamii/xxamii/blob/main/Images/ThroughTheFactory.png" />
   </a>
 </p>
+
+<a href="https://xamigames.itch.io"><img alt="Itch.io" title="Xamigames Itch.io" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Games-1A1B27?style=for-the-badge&logoColor=white&logo=play"></a>
 
 #
 
