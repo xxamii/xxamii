@@ -40,7 +40,25 @@ I am a full stack and an indie game developer. My wide range of interests in sof
 
 ### 🎮 Itch.io
 
-<iframe frameborder="0" src="https://itch.io/embed/1085478?linkback=true&amp;border_width=0&amp;bg_color=1A1B27&amp;fg_color=6A9BED&amp;link_color=35AEA2" width="550" height="165"><a href="https://linahale.itch.io/comfyblobs">Comfy Blobs by Lina, xamigames, cristianrocco</a></iframe>
+You can find and play my games on my <itch.io> page!
+
+<p align="left">
+  <a href="https://xamigames.itch.io/run-a-circle">
+    <img width="350px" src="https://github.com/xxamii/xxamii/blob/main/Images/RunACircle.png" />
+  </a>
+  <a href="https://linahale.itch.io/comfyblobs">
+    <img width="350px" src="https://github.com/xxamii/xxamii/blob/main/Images/ComfyBlobs.png" />
+  </a>
+  <a href="https://xamigames.itch.io/fight-your-fears">
+    <img width="350px" src="https://github.com/xxamii/xxamii/blob/main/Images/FightYourFears.png" />
+  </a>
+  <a href="https://xamigames.itch.io/spooky-journey">
+    <img width="350px" src="https://github.com/xxamii/xxamii/blob/main/Images/SpookyJourney.png" />
+  </a>
+  <a href="https://xamigames.itch.io/through-the-factory">
+    <img width="350px" src="https://github.com/xxamii/xxamii/blob/main/Images/ThroughTheFactory.png" />
+  </a>
+</p>
 
 #
 
