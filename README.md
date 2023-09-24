@@ -40,6 +40,8 @@ I am a full stack and an indie game developer. My wide range of interests in sof
 
 ### 🎮 Itch.io
 
+<iframe frameborder="0" src="https://itch.io/embed/1085478?linkback=true&amp;border_width=0&amp;bg_color=1A1B27&amp;fg_color=6A9BED&amp;link_color=35AEA2" width="550" height="165"><a href="https://linahale.itch.io/comfyblobs">Comfy Blobs by Lina, xamigames, cristianrocco</a></iframe>
+
 #
 
 ### 🔭 I'm Currently
