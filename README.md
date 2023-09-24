@@ -44,19 +44,19 @@ You can find and play my games on my <itch.io> page!
 
 <p align="left">
   <a href="https://xamigames.itch.io/run-a-circle">
-    <img width="350px" src="https://github.com/xxamii/xxamii/blob/main/Images/RunACircle.png" />
+    <img width="450px" src="https://github.com/xxamii/xxamii/blob/main/Images/RunACircle.png" />
   </a>
   <a href="https://linahale.itch.io/comfyblobs">
-    <img width="350px" src="https://github.com/xxamii/xxamii/blob/main/Images/ComfyBlobs.png" />
+    <img width="450px" src="https://github.com/xxamii/xxamii/blob/main/Images/ComfyBlobs.png" />
   </a>
   <a href="https://xamigames.itch.io/fight-your-fears">
-    <img width="350px" src="https://github.com/xxamii/xxamii/blob/main/Images/FightYourFears.png" />
+    <img width="450px" src="https://github.com/xxamii/xxamii/blob/main/Images/FightYourFears.png" />
   </a>
   <a href="https://xamigames.itch.io/spooky-journey">
-    <img width="350px" src="https://github.com/xxamii/xxamii/blob/main/Images/SpookyJourney.png" />
+    <img width="450px" src="https://github.com/xxamii/xxamii/blob/main/Images/SpookyJourney.png" />
   </a>
   <a href="https://xamigames.itch.io/through-the-factory">
-    <img width="350px" src="https://github.com/xxamii/xxamii/blob/main/Images/ThroughTheFactory.png" />
+    <img width="450px" src="https://github.com/xxamii/xxamii/blob/main/Images/ThroughTheFactory.png" />
   </a>
 </p>
 
