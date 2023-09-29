@@ -30,6 +30,21 @@ I am a full-stack and an indie game developer. My wide range of interests in sof
   <a href="https://github.com/xxamii/MyGamesList">
     <img width="350px" src="https://github-readme-stats.vercel.app/api/pin/?username=xxamii&repo=mygameslist&theme=tokyonight&hide_border=true" />
   </a>
+  <a href="https://github.com/xxamii/FileManager">
+    <img width="350px" src="https://github-readme-stats.vercel.app/api/pin/?username=xxamii&repo=filemanager&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/xxamii/ComfyBlobs">
+    <img width="350px" src="https://github-readme-stats.vercel.app/api/pin/?username=xxamii&repo=comfyblobs&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/xxamii/TestingFramework">
+    <img width="350px" src="https://github-readme-stats.vercel.app/api/pin/?username=xxamii&repo=testingframework&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/xxamii/RunACircle">
+    <img width="350px" src="https://github-readme-stats.vercel.app/api/pin/?username=xxamii&repo=runacircle&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/xxamii/ThroughTheFactory">
+    <img width="350px" src="https://github-readme-stats.vercel.app/api/pin/?username=xxamii&repo=throughthefactory&theme=tokyonight&hide_border=true" />
+  </a>
 </p>
 
 <!-- Badges with custom icons - https://github.com/DenverCoder1/custom-icon-badges -->
