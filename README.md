@@ -42,9 +42,6 @@ I am a full-stack and an indie game developer. My wide range of interests in sof
   <a href="https://github.com/xxamii/RunACircle">
     <img width="350px" src="https://github-readme-stats.vercel.app/api/pin/?username=xxamii&repo=runacircle&theme=tokyonight&hide_border=true" />
   </a>
-  <a href="https://github.com/xxamii/ThroughTheFactory">
-    <img width="350px" src="https://github-readme-stats.vercel.app/api/pin/?username=xxamii&repo=throughthefactory&theme=tokyonight&hide_border=true" />
-  </a>
 </p>
 
 <!-- Badges with custom icons - https://github.com/DenverCoder1/custom-icon-badges -->
