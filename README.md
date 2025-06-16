@@ -27,9 +27,6 @@ I am a full-stack and an indie game developer. My wide range of interests in sof
 <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
 
 <p align="left">
-  <a href="https://github.com/xxamii/MyGamesList">
-    <img width="350px" src="https://github-readme-stats.vercel.app/api/pin/?username=xxamii&repo=mygameslist&theme=tokyonight&hide_border=true" />
-  </a>
   <a href="https://github.com/xxamii/FileManager">
     <img width="350px" src="https://github-readme-stats.vercel.app/api/pin/?username=xxamii&repo=filemanager&theme=tokyonight&hide_border=true" />
   </a>
