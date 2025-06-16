@@ -77,24 +77,16 @@ I am a full-stack and an indie game developer. My wide range of interests in sof
 
 #
 
-### 🔭 I'm Currently
-
-- Learning C# .NET
-- Working on [MyGamesList](https://github.com/xxamii/MyGamesList)
-
-#
-
 ### 🎓 Education
 
 - 2021-2022: Software Engineering, Kharkiw National University of Radio Electronics, 2 Semesters
-
+- 2024-present: Electrical and Information Engineering, Hamburg University of Applied Sciences
 ---
 
 ### 🐚 How to Reach Me
 
 - Email: <maxim.yakovliev4@gmail.com>
 - Itch.io: <https://xamigames.itch.io>
-- Discord: <https://discord.com/users/292738855818231809>
 
 #
 
@@ -104,8 +96,3 @@ I am a full-stack and an indie game developer. My wide range of interests in sof
 - 🇩🇪 German
 - 🇷🇺 Russian
 - 🇺🇦 Ukrainian
-
-#
-<details>
-  <summary><h3>🚠 My Journey</h3></summary>
-</details>
