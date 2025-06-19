@@ -30,6 +30,9 @@ I am a full-stack and an indie game developer. My wide range of interests in sof
   <a href="https://github.com/xxamii/FileManager">
     <img width="350px" src="https://github-readme-stats.vercel.app/api/pin/?username=xxamii&repo=filemanager&theme=tokyonight&hide_border=true" />
   </a>
+  <a href="https://github.com/xxamii/GenealogicalTree">
+    <img width="350px" src="https://github-readme-stats.vercel.app/api/pin/?username=xxamii&repo=genealogicaltree&theme=tokyonight&hide_border=true" />
+  </a>
   <a href="https://github.com/xxamii/ComfyBlobs">
     <img width="350px" src="https://github-readme-stats.vercel.app/api/pin/?username=xxamii&repo=comfyblobs&theme=tokyonight&hide_border=true" />
   </a>
